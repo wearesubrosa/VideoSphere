@@ -1,0 +1,11 @@
+.DS_Store
+bin/data/*.mp4
+*.dll
+360VideoSphere2_0.VC.db
+obj/Debug
+obj/Release
+bin/*.*
+!bin/.gitkeep
+!obj/.gitkeep
+!bin/data/.gitkeep
+
